@@ -1,0 +1,12 @@
+za\ac\cput\DAO\UserDAO.class
+za\ac\cput\DAO\CourseDAO.class
+za\ac\cput\DAO\StudentDAO.class
+za\ac\cput\DAO\AdminDAO.class
+za\ac\cput\DAO\EnrollmentDAO.class
+za\ac\cput\Domain\Course.class
+za\ac\cput\ServerFinalProject.class
+za\ac\cput\Domain\Admin.class
+za\ac\cput\Connection\DBConnection.class
+za\ac\cput\Function\EnrollmentServer.class
+za\ac\cput\Domain\Student.class
+za\ac\cput\Domain\User.class
